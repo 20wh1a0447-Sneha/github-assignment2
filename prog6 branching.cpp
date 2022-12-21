@@ -7,12 +7,12 @@ int main(){
     if(ch=='a'||ch=='c'||ch=='e'||ch=='g')
     {
         if(i%2==0)
-        cout<<"swuare is white";
+        cout<<"square is white";
     }
     else if(ch=='b'||ch=='d'||ch=='f'||ch=='h')
     {
         if(i%2!=0)
-        cout<<"swuare is white";
+        cout<<"square is white";
     }
     else{
         cout<<"square is black";
