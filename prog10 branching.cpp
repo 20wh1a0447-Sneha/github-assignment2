@@ -5,7 +5,6 @@ using namespace std;
 int main() {
     int wavelength;
     cin>>wavelength;
-    cout<<"enter wavelength range:";
     if(wavelength < 350 && wavelength <= 450){
         cout<<"violet";
     }
