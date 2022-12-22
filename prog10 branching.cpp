@@ -25,6 +25,6 @@ int main() {
             cout<<"Red";
         }
         else
-            cout<<"invalid";
+            cout<<"outside of visible spectrum";
         return 0;
 }
